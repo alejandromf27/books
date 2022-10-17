@@ -51,4 +51,5 @@ Thumbs.db
 # Envoironment file
 .coverage
 media/*
+env
 
